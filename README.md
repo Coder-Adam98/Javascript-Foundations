@@ -1,6 +1,6 @@
 # Expense Tracker
 
-An evolving expense tracker built with HTML, CSS, and JavaScript, continuously improved with new features and technologies.
+A continuously evolving expense tracker built with modern web technologies, growing from a vanilla JavaScript project into a full-stack application.
 
 ## Features
 
