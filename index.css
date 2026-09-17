@@ -1,0 +1,44 @@
+body{
+    font-family: serif;
+    background:whitesmoke;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+
+}
+.app{
+    background:hotpink;
+    padding: 20px;
+    border-radius: 10px;
+    width:365px;
+    box-shadow: 0 4px 10px;
+}
+form{
+    display: flex;
+    gap: 20px;
+}
+input, button{
+    padding:8px;
+    border-radius: 5px;
+  border: 1px solid #ccc;
+}
+ button{
+    background: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+ }
+ #expense-list{
+margin-top:  20px;
+list-style: none;
+padding: 0;
+ }
+
+ #expense-list li{
+    display: flex;
+    justify-content: space-between;
+     background: #f9fafb;
+  margin-bottom: 8px;
+  padding: 8px;
+  border-radius: 5px;
+ }
