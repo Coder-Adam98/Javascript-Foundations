@@ -1,52 +1,39 @@
-# JavaScript Foundations
+# Expense Tracker
 
-A collection of small projects built while learning and strengthening my JavaScript fundamentals.
+A simple expense tracker built with HTML, CSS, and vanilla JavaScript.
 
-The goal of this repository is to learn JavaScript by building practical projects rather than only following tutorials.
+This project was built as part of my JavaScript fundamentals practice to strengthen my understanding of DOM manipulation, events, arrays, and user input.
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+## Features
 
----
+* Add expenses
+* Display expense records
+* Calculate total expenses
+* Delete expenses
+* Validate user input
 
-**What I'm Practicing**
+## Technologies
 
-* **JavaScript Fundamentals**: Variables, functions, conditions, and loops
-* **Data Structures**: Arrays and objects
-* **DOM Manipulation**: Selecting, creating, and updating elements
-* **Events**: Handling user input, clicks, and form submissions
-* **Persistence**: Working with localStorage
-* **Asynchronous JS**: Async JavaScript and API fetching
-* **Code Quality**: Writing cleaner, modular, and reusable code
+* HTML
+* CSS
+* JavaScript (Vanilla JS)
 
----
+## What I Learned
 
-**Projects**
+Through this project, I practiced:
 
-| # | Project | Concepts Covered |
-| :--- | :--- | :--- |
-| **01** | Expense Tracker | DOM manipulation, events, arrays, `localStorage` |
-| **02** | Todo List | DOM manipulation, events, functions |
+* Selecting and manipulating DOM elements
+* Handling user input
+* Using event listeners
+* Working with arrays and objects
+* Creating and removing DOM elements
+* Using functions to organize code
+* Updating the UI based on user actions
 
+## Project Status
 
-*More projects will be added as I continue learning.*
+ This project was built as part of my JavaScript learning journey and may be improved as I learn new concepts.
 
----
+## Learning Path
 
-**Learning Path**
-
-
-JavaScript Fundamentals
-        ->
-Small Vanilla JavaScript Projects
-        ->
-React
-        ->
-Larger Full-Stack Projects
-        ->
-AI-based Projects
-
-Status:
-This repository is actively being updated as I learn and build. 
-
+This project is part of my javascript-foundations repository, where I am building small projects to strengthen my JavaScript fundamentals before moving on to React.
