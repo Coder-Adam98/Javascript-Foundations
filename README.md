@@ -19,9 +19,11 @@ The goal of this repository is to learn JavaScript by building practical project
 
 ## Projects
 
- Projects:           Concepts 
- 1.Expense Tracker     DOM manipulation, events, arrays    
- 2.Todo List           DOM manipulation, events, functions 
+| #  | Projects         | Concepts                            |
+| -- | --------------- | ----------------------------------- |
+| 01 | Expense Tracker | DOM manipulation, events, arrays    |
+| 02 | Todo List       | DOM manipulation, events, functions |
+
 
 > More projects will be added as I continue learning.
 
@@ -45,4 +47,4 @@ After building a strong foundation with vanilla JavaScript, I plan to rebuild so
 
 ## Status
 
-This repository is actively being updated as I learn and build.
+ This repository is actively being updated as I learn and build.
