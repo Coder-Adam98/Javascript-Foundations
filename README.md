@@ -33,13 +33,13 @@ My current learning path is:
 
 
 JavaScript Fundamentals
-        ↓
+        ->
 Small Vanilla JavaScript Projects
-        ↓
+        ->
 React
-        ↓
+        ->
 Larger Full-Stack Projects
-        ↓
+        ->
 AI-based Projects
 
 
