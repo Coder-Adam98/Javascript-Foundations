@@ -1,29 +1,48 @@
-# Expense Tracker
+# JavaScript Foundations
 
-A continuously evolving expense tracker built with modern web technologies, growing from a vanilla JavaScript project into a full-stack application.
+A collection of small projects built while learning and strengthening my JavaScript fundamentals.
 
-## Features
+The goal of this repository is to learn JavaScript by building practical projects rather than only following tutorials.
 
-- Add expenses
-- Delete expenses
-- Calculate total expenses
-- Save expenses using localStorage
+## What I'm Practicing
 
-## Technologies
+* JavaScript fundamentals
+* Variables and functions
+* Conditions and loops
+* Arrays and objects
+* DOM manipulation
+* Events and event listeners
+* Working with forms and user input
+* Local storage
+* Async JavaScript and APIs
+* Writing cleaner and more reusable code
 
-- HTML5
-- CSS3
-- JavaScript
-- Browser localStorage
+## Projects
 
-## Future Improvements
+ Projects:           Concepts 
+ 1.Expense Tracker     DOM manipulation, events, arrays    
+ 2.Todo List           DOM manipulation, events, functions 
 
-- Edit expenses
-- Expense categories
-- Search and filtering
-- Date-based expenses
-- Charts and analytics
-- Responsive design
-- React
-- Backend and database
-- Authentication
+> More projects will be added as I continue learning.
+
+## Learning Path
+
+My current learning path is:
+
+
+JavaScript Fundamentals
+        ↓
+Small Vanilla JavaScript Projects
+        ↓
+React
+        ↓
+Larger Full-Stack Projects
+        ↓
+AI-based Projects
+
+
+After building a strong foundation with vanilla JavaScript, I plan to rebuild some of these projects using React to better understand the problems React solves and how the same concepts translate into a component-based approach.
+
+## Status
+
+This repository is actively being updated as I learn and build.
