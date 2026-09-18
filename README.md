@@ -1,39 +1,31 @@
-# Expense Tracker
+# JavaScript Foundations
 
-A simple expense tracker built with HTML, CSS, and vanilla JavaScript.
+A collection of small projects I’m building while learning and practicing JavaScript.
 
-This project was built as part of my JavaScript fundamentals practice to strengthen my understanding of DOM manipulation, events, arrays, and user input.
+The goal of this repository is to strengthen my JavaScript fundamentals through hands-on projects and gradually build more practical applications.
 
-## Features
+## Projects
 
-* Add expenses
-* Display expense records
-* Calculate total expenses
-* Delete expenses
-* Validate user input
+### Expense Tracker
+
+A simple application for adding and managing expenses.
+
+### To-Do List
+
+A simple application for adding and managing tasks.
 
 ## Technologies
 
 * HTML
 * CSS
-* JavaScript (Vanilla JS)
+* JavaScript
 
-## What I Learned
+## About
 
-Through this project, I practiced:
+This repository is part of my web development learning journey. I’ll continue adding projects as I learn new JavaScript concepts and improve my skills.
 
-* Selecting and manipulating DOM elements
-* Handling user input
-* Using event listeners
-* Working with arrays and objects
-* Creating and removing DOM elements
-* Using functions to organize code
-* Updating the UI based on user actions
+In the future, I plan to rebuild some of these projects with React as I progress to the next stage of my learning.
 
-## Project Status
+## Author
 
- This project was built as part of my JavaScript learning journey and may be improved as I learn new concepts.
-
-## Learning Path
-
-This project is part of my javascript-foundations repository, where I am building small projects to strengthen my JavaScript fundamentals before moving on to React.
+Adam
